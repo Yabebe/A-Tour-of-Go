@@ -16,14 +16,14 @@ The numbers are aligned with the page of the Tour for each chapter.
   - 01.go : texttexttext
   - 02.go
   - 03.go
-  .
-  .
+  .   
+  .   
   - 05.go
 - 02_Packages
   - 01.go 
-  .
-  .
-  .
+  .   
+  .   
+  .   
   - 16.go
 - 03_Flow
 - etc... 
